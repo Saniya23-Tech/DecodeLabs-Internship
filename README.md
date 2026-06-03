@@ -32,4 +32,4 @@ Through this internship, I am gaining hands-on experience by building practical 
 To strengthen my practical development and machine learning skills by building projects and applying concepts to real-world datasets.
 
 ## 👩‍💻 Author
-Mohammad Saniya
+Mohammad Saniya Sultana
