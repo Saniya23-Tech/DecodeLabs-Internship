@@ -5,7 +5,7 @@ This project focuses on classifying Iris flowers using Machine Learning.
 
 ## 🧠 What I Learned
 - Training and Testing datasets
-- How machine learning models learn patterns
+- How machine learning models learn patterns on unseen data sets
 - Model prediction
 - Accuracy evaluation
 - Confusion Matrix
