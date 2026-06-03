@@ -1,0 +1,24 @@
+# Week 2 - Iris Flower Classification 🌸
+
+## 📌 Description
+This project focuses on classifying Iris flowers using Machine Learning.
+
+## 🧠 What I Learned
+- Training and Testing datasets
+- How machine learning models learn patterns
+- Model prediction
+- Accuracy evaluation
+- Confusion Matrix
+- F1 Score
+
+## ⚙️ Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
+
+## 📊 Dataset
+Iris Dataset
+
+## 🚀 Outcome
+Built a classification model and understood the importance of evaluating models on unseen test data.
