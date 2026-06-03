@@ -17,7 +17,7 @@ Through this internship, I am gaining hands-on experience by building practical 
 - Built a machine learning model using the Iris dataset.
 - Learned the importance of splitting data into training and testing sets.
 - Understood how models learn patterns from training data and are evaluated on unseen test data.
-- Explored concepts such as prediction, accuracy, confusion matrix, and F1 score.
+- Explored concepts such as predictions, accuracy, confusion matrix, and F1 score.
 
 ## 🛠️ Skills Gained
 - Python Programming
