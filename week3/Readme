@@ -1,0 +1,159 @@
+# Week 3: Tech Stack Recommender System Using TF-IDF and Cosine Similarity
+
+## 📌 Project Overview
+This project was developed as part of the Decode Labs Internship Week 3 task.
+
+The goal of the project is to recommend the top 3 most relevant career paths based on the user's skills using Natural Language Processing techniques.
+
+Instead of using predefined if-else conditions, the system uses TF-IDF vectorization and Cosine Similarity to find careers that best match the user's interests.
+
+---
+
+## 🎯 Objective
+
+Build a recommendation system that:
+
+- Accepts user skills as input.
+- Converts textual skills into numerical vectors.
+- Calculates similarity between user skills and career profiles.
+- Ranks career paths based on similarity scores.
+- Recommends the Top 3 most relevant careers.
+
+---
+
+## 🧠 Concepts Learned
+
+During this project, I learned:
+
+- Recommendation Systems
+- Text Vectorization using TF-IDF
+- Cosine Similarity
+- Vector Space Representation
+- Ranking and Filtering
+- Similarity Scoring
+- Working with CSV datasets
+- Data handling using Pandas
+- Real-world applications of Information Retrieval concepts
+
+---
+
+## ⚙️ Technologies Used
+
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 🔄 Workflow
+
+Input User Skills
+↓
+Load Career Dataset
+↓
+TF-IDF Vectorization
+↓
+Convert Skills into Vector Space
+↓
+Calculate Cosine Similarity
+↓
+Assign Similarity Scores
+↓
+Sort Career Profiles
+↓
+Filter Top 3 Recommendations
+
+---
+
+## 📂 Dataset
+
+The dataset contains career profiles and their associated skills, including:
+
+- Data Scientist
+- ML Engineer
+- Data Analyst
+- Full Stack Developer
+- Frontend Developer
+- Backend Developer
+- DevOps Engineer
+- Cloud Engineer
+- Cybersecurity Analyst
+- Android Developer
+- AI Engineer
+- Database Administrator
+- Software Engineer
+- Business Analyst
+- UI/UX Designer
+
+---
+
+## 📊 Recommendation Pipeline
+
+### 1. Ingestion
+Collect user skills.
+
+### 2. Scoring
+Calculate similarity between user skills and career profiles.
+
+### 3. Sorting
+Sort careers based on similarity scores.
+
+### 4. Filtering
+Return the Top 3 most relevant career paths.
+
+---
+
+## 📈 Similarity Technique Used
+
+### TF-IDF (Term Frequency – Inverse Document Frequency)
+
+TF-IDF converts textual skills into numerical vectors by assigning importance to each term.
+
+### Cosine Similarity
+
+Cosine Similarity measures the angle between vectors and identifies how similar the user's interests are to career profiles.
+
+This approach focuses on direction rather than magnitude.
+
+---
+
+## ⚠️ Limitation
+
+### Cold Start Problem
+
+If the user enters skills that are not present in the dataset, recommendations may not be accurate.
+
+---
+
+## 🚀 Future Improvements
+
+- Larger career dataset
+- Resume-based recommendations
+- Skill extraction from PDF resumes
+- Web interface using Streamlit
+- Personalized recommendations
+
+---
+
+## 📌 Example Input
+
+```text
+Python Machine Learning SQL
+```
+
+## 📌 Example Output
+
+```text
+1. Data Scientist
+2. ML Engineer
+3. Data Analyst
+```
+
+---
+
+## 🏆 Internship
+
+**Decode Labs Internship – Week 3**
+
+Project: **Tech Stack Recommender System Using TF-IDF and Cosine Similarity**
